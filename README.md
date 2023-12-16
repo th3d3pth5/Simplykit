@@ -5,6 +5,6 @@ A simple NodeJS applet(?)
 
 ### To-do List
 ---
-- [ ] #1
-- [ ] #2
-- [ ] #3
+- [ ] https://github.com/th3d3pth5/Simplykit/issues/1
+- [ ] https://github.com/th3d3pth5/Simplykit/issues/2
+- [ ] https://github.com/th3d3pth5/Simplykit/issues/3
